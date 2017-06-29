@@ -1,2 +1,6 @@
 this is branch1file1
+<<<<<<< HEAD
 modification done in branch1
+=======
+midified in master
+>>>>>>> master
